@@ -1,0 +1,4 @@
+DELETE FROM EMPLOYEE 
+ WHERE CustomerName="Alfreds Futterkiste"
+   AND CustomerID=10
+;

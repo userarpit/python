@@ -1,0 +1,5 @@
+CREATE TABLE TABLE1 (
+    CustomerID CustomerName(ContactName),
+    89 White Clover Markets(Karl Jablonski),
+    90 Wilman Kala(Matti Karttunen)
+);

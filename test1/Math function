@@ -1,0 +1,9 @@
+#from math import ceil, fabs, modf
+import math as mth
+
+print(mth.ceil(5.6))
+print(mth.fabs(-4.5))
+print(mth.modf(3.4))
+print(round(0.645576,3))
+
+print(int(mth.sqrt(36)))

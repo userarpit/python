@@ -1,0 +1,4 @@
+Name,Quantity,Price
+A,10,75
+B,13,60
+C,22,55

@@ -1,0 +1,15 @@
+UPDATE EMPLOYEE
+   SET Quantity = 10
+     , Price = 75
+ WHERE Name = "A"
+;
+UPDATE EMPLOYEE
+   SET Quantity = 13
+     , Price = 60
+ WHERE Name = "B"
+;
+UPDATE EMPLOYEE
+   SET Quantity = 22
+     , Price = 55
+ WHERE Name = "C"
+;

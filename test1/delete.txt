@@ -1,0 +1,2 @@
+CustomerName,Alfreds Futterkiste
+CustomerID,10
