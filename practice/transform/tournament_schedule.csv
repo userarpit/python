@@ -1,0 +1,133 @@
+Week,Match_Order_in_Week,Date,Start Time,End Time,Team A,Team B
+1,1,29-06-2025,06:00 PM IST,06:40 PM IST,Kanhaiya's Physio FC (Beast),Procure FC (Carnage)
+1,2,29-06-2025,06:40 PM IST,07:20 PM IST,Cell Kraft FC (Riza),Reckon FC (FUTURE)
+1,3,29-06-2025,07:20 PM IST,08:00 PM IST,Bon Bon FC (Supa),Sapphire Seven
+1,4,29-06-2025,08:00 PM IST,08:40 PM IST,Ektarfa FC (TeamSkeet),Sarthak Singapore FC (Silverbacks)
+1,5,29-06-2025,08:40 PM IST,09:20 PM IST,H&H Boyz,Propex FC (Galacticos)
+1,6,29-06-2025,09:20 PM IST,10:00 PM IST,BKFC,Sarco FC (LUFC)
+2,1,06-07-2025,06:00 PM IST,06:40 PM IST,BKFC,Reckon FC (FUTURE)
+2,2,06-07-2025,06:40 PM IST,07:20 PM IST,Sarthak Singapore FC (Silverbacks),Sapphire Seven
+2,3,06-07-2025,07:20 PM IST,08:00 PM IST,Cell Kraft FC (Riza),Procure FC (Carnage)
+2,4,06-07-2025,08:00 PM IST,08:40 PM IST,Ektarfa FC (TeamSkeet),Sarco FC (LUFC)
+2,5,06-07-2025,08:40 PM IST,09:20 PM IST,H&H Boyz,Kanhaiya's Physio FC (Beast)
+2,6,06-07-2025,09:20 PM IST,10:00 PM IST,Bon Bon FC (Supa),Propex FC (Galacticos)
+3,1,13-07-2025,06:00 PM IST,06:40 PM IST,Sarthak Singapore FC (Silverbacks),Propex FC (Galacticos)
+3,2,13-07-2025,06:40 PM IST,07:20 PM IST,BKFC,Procure FC (Carnage)
+3,3,13-07-2025,07:20 PM IST,08:00 PM IST,Sarco FC (LUFC),Reckon FC (FUTURE)
+3,4,13-07-2025,08:00 PM IST,08:40 PM IST,Cell Kraft FC (Riza),H&H Boyz
+3,5,13-07-2025,08:40 PM IST,09:20 PM IST,Ektarfa FC (TeamSkeet),Sapphire Seven
+3,6,13-07-2025,09:20 PM IST,10:00 PM IST,Bon Bon FC (Supa),Kanhaiya's Physio FC (Beast)
+4,1,20-07-2025,06:00 PM IST,06:40 PM IST,Ektarfa FC (TeamSkeet),Reckon FC (FUTURE)
+4,2,20-07-2025,06:40 PM IST,07:20 PM IST,Sarthak Singapore FC (Silverbacks),Kanhaiya's Physio FC (Beast)
+4,3,20-07-2025,07:20 PM IST,08:00 PM IST,Sapphire Seven,Propex FC (Galacticos)
+4,4,20-07-2025,08:00 PM IST,08:40 PM IST,Sarco FC (LUFC),Procure FC (Carnage)
+4,5,20-07-2025,08:40 PM IST,09:20 PM IST,Bon Bon FC (Supa),Cell Kraft FC (Riza)
+4,6,20-07-2025,09:20 PM IST,10:00 PM IST,BKFC,H&H Boyz
+5,1,27-07-2025,06:00 PM IST,06:40 PM IST,Sapphire Seven,Kanhaiya's Physio FC (Beast)
+5,2,27-07-2025,06:40 PM IST,07:20 PM IST,Ektarfa FC (TeamSkeet),Propex FC (Galacticos)
+5,3,27-07-2025,07:20 PM IST,08:00 PM IST,Sarco FC (LUFC),H&H Boyz
+5,4,27-07-2025,08:00 PM IST,08:40 PM IST,BKFC,Bon Bon FC (Supa)
+5,5,27-07-2025,08:40 PM IST,09:20 PM IST,Sarthak Singapore FC (Silverbacks),Cell Kraft FC (Riza)
+5,6,27-07-2025,09:20 PM IST,10:00 PM IST,Reckon FC (FUTURE),Procure FC (Carnage)
+6,1,03-08-2025,06:00 PM IST,06:40 PM IST,Ektarfa FC (TeamSkeet),Procure FC (Carnage)
+6,2,03-08-2025,06:40 PM IST,07:20 PM IST,Reckon FC (FUTURE),H&H Boyz
+6,3,03-08-2025,07:20 PM IST,08:00 PM IST,Sapphire Seven,Cell Kraft FC (Riza)
+6,4,03-08-2025,08:00 PM IST,08:40 PM IST,Propex FC (Galacticos),Kanhaiya's Physio FC (Beast)
+6,5,03-08-2025,08:40 PM IST,09:20 PM IST,Sarthak Singapore FC (Silverbacks),BKFC
+6,6,03-08-2025,09:20 PM IST,10:00 PM IST,Sarco FC (LUFC),Bon Bon FC (Supa)
+7,1,10-08-2025,06:00 PM IST,06:40 PM IST,Procure FC (Carnage),H&H Boyz
+7,2,10-08-2025,06:40 PM IST,07:20 PM IST,Propex FC (Galacticos),Cell Kraft FC (Riza)
+7,3,10-08-2025,07:20 PM IST,08:00 PM IST,Ektarfa FC (TeamSkeet),Kanhaiya's Physio FC (Beast)
+7,4,10-08-2025,08:00 PM IST,08:40 PM IST,Sapphire Seven,BKFC
+7,5,10-08-2025,08:40 PM IST,09:20 PM IST,Sarco FC (LUFC),Sarthak Singapore FC (Silverbacks)
+7,6,10-08-2025,09:20 PM IST,10:00 PM IST,Reckon FC (FUTURE),Bon Bon FC (Supa)
+8,1,17-08-2025,06:00 PM IST,06:40 PM IST,Propex FC (Galacticos),BKFC
+8,2,17-08-2025,06:40 PM IST,07:20 PM IST,Kanhaiya's Physio FC (Beast),Cell Kraft FC (Riza)
+8,3,17-08-2025,07:20 PM IST,08:00 PM IST,Procure FC (Carnage),Bon Bon FC (Supa)
+8,4,17-08-2025,08:00 PM IST,08:40 PM IST,Reckon FC (FUTURE),Sarthak Singapore FC (Silverbacks)
+8,5,17-08-2025,08:40 PM IST,09:20 PM IST,Ektarfa FC (TeamSkeet),H&H Boyz
+8,6,17-08-2025,09:20 PM IST,10:00 PM IST,Sapphire Seven,Sarco FC (LUFC)
+9,1,24-08-2025,06:00 PM IST,06:40 PM IST,Procure FC (Carnage),Sarthak Singapore FC (Silverbacks)
+9,2,24-08-2025,06:40 PM IST,07:20 PM IST,Propex FC (Galacticos),Sarco FC (LUFC)
+9,3,24-08-2025,07:20 PM IST,08:00 PM IST,Reckon FC (FUTURE),Sapphire Seven
+9,4,24-08-2025,08:00 PM IST,08:40 PM IST,H&H Boyz,Bon Bon FC (Supa)
+9,5,24-08-2025,08:40 PM IST,09:20 PM IST,Kanhaiya's Physio FC (Beast),BKFC
+9,6,24-08-2025,09:20 PM IST,10:00 PM IST,Ektarfa FC (TeamSkeet),Cell Kraft FC (Riza)
+10,1,31-08-2025,06:00 PM IST,06:40 PM IST,Cell Kraft FC (Riza),BKFC
+10,2,31-08-2025,06:40 PM IST,07:20 PM IST,H&H Boyz,Sarthak Singapore FC (Silverbacks)
+10,3,31-08-2025,07:20 PM IST,08:00 PM IST,Ektarfa FC (TeamSkeet),Bon Bon FC (Supa)
+10,4,31-08-2025,08:00 PM IST,08:40 PM IST,Propex FC (Galacticos),Reckon FC (FUTURE)
+10,5,31-08-2025,08:40 PM IST,09:20 PM IST,Kanhaiya's Physio FC (Beast),Sarco FC (LUFC)
+10,6,31-08-2025,09:20 PM IST,10:00 PM IST,Procure FC (Carnage),Sapphire Seven
+11,1,07-09-2025,06:00 PM IST,06:40 PM IST,Bon Bon FC (Supa),Sarthak Singapore FC (Silverbacks)
+11,2,07-09-2025,06:40 PM IST,07:20 PM IST,H&H Boyz,Sapphire Seven
+11,3,07-09-2025,07:20 PM IST,08:00 PM IST,Kanhaiya's Physio FC (Beast),Reckon FC (FUTURE)
+11,4,07-09-2025,08:00 PM IST,08:40 PM IST,Ektarfa FC (TeamSkeet),BKFC
+11,5,07-09-2025,08:40 PM IST,09:20 PM IST,Procure FC (Carnage),Propex FC (Galacticos)
+11,6,07-09-2025,09:20 PM IST,10:00 PM IST,Cell Kraft FC (Riza),Sarco FC (LUFC)
+12,1,14-09-2025,06:00 PM IST,06:40 PM IST,Ektarfa FC (TeamSkeet),Sarthak Singapore FC (Silverbacks)
+12,2,14-09-2025,06:40 PM IST,07:20 PM IST,Kanhaiya's Physio FC (Beast),Procure FC (Carnage)
+12,3,14-09-2025,07:20 PM IST,08:00 PM IST,H&H Boyz,Propex FC (Galacticos)
+12,4,14-09-2025,08:00 PM IST,08:40 PM IST,BKFC,Sarco FC (LUFC)
+12,5,14-09-2025,08:40 PM IST,09:20 PM IST,Cell Kraft FC (Riza),Reckon FC (FUTURE)
+12,6,14-09-2025,09:20 PM IST,10:00 PM IST,Bon Bon FC (Supa),Sapphire Seven
+13,1,21-09-2025,06:00 PM IST,06:40 PM IST,Sarthak Singapore FC (Silverbacks),Sapphire Seven
+13,2,21-09-2025,06:40 PM IST,07:20 PM IST,BKFC,Reckon FC (FUTURE)
+13,3,21-09-2025,07:20 PM IST,08:00 PM IST,Ektarfa FC (TeamSkeet),Sarco FC (LUFC)
+13,4,21-09-2025,08:00 PM IST,08:40 PM IST,Bon Bon FC (Supa),Propex FC (Galacticos)
+13,5,21-09-2025,08:40 PM IST,09:20 PM IST,Cell Kraft FC (Riza),Procure FC (Carnage)
+13,6,21-09-2025,09:20 PM IST,10:00 PM IST,H&H Boyz,Kanhaiya's Physio FC (Beast)
+14,1,28-09-2025,06:00 PM IST,06:40 PM IST,BKFC,Procure FC (Carnage)
+14,2,28-09-2025,06:40 PM IST,07:20 PM IST,Ektarfa FC (TeamSkeet),Sapphire Seven
+14,3,28-09-2025,07:20 PM IST,08:00 PM IST,Cell Kraft FC (Riza),H&H Boyz
+14,4,28-09-2025,08:00 PM IST,08:40 PM IST,Bon Bon FC (Supa),Kanhaiya's Physio FC (Beast)
+14,5,28-09-2025,08:40 PM IST,09:20 PM IST,Sarthak Singapore FC (Silverbacks),Propex FC (Galacticos)
+14,6,28-09-2025,09:20 PM IST,10:00 PM IST,Sarco FC (LUFC),Reckon FC (FUTURE)
+15,1,05-10-2025,06:00 PM IST,06:40 PM IST,Sarco FC (LUFC),Procure FC (Carnage)
+15,2,05-10-2025,06:40 PM IST,07:20 PM IST,BKFC,H&H Boyz
+15,3,05-10-2025,07:20 PM IST,08:00 PM IST,Ektarfa FC (TeamSkeet),Reckon FC (FUTURE)
+15,4,05-10-2025,08:00 PM IST,08:40 PM IST,Bon Bon FC (Supa),Cell Kraft FC (Riza)
+15,5,05-10-2025,08:40 PM IST,09:20 PM IST,Sapphire Seven,Propex FC (Galacticos)
+15,6,05-10-2025,09:20 PM IST,10:00 PM IST,Sarthak Singapore FC (Silverbacks),Kanhaiya's Physio FC (Beast)
+16,1,12-10-2025,06:00 PM IST,06:40 PM IST,BKFC,Bon Bon FC (Supa)
+16,2,12-10-2025,06:40 PM IST,07:20 PM IST,Ektarfa FC (TeamSkeet),Propex FC (Galacticos)
+16,3,12-10-2025,07:20 PM IST,08:00 PM IST,Sapphire Seven,Kanhaiya's Physio FC (Beast)
+16,4,12-10-2025,08:00 PM IST,08:40 PM IST,Reckon FC (FUTURE),Procure FC (Carnage)
+16,5,12-10-2025,08:40 PM IST,09:20 PM IST,Sarthak Singapore FC (Silverbacks),Cell Kraft FC (Riza)
+16,6,12-10-2025,09:20 PM IST,10:00 PM IST,Sarco FC (LUFC),H&H Boyz
+17,1,19-10-2025,06:00 PM IST,06:40 PM IST,Ektarfa FC (TeamSkeet),Procure FC (Carnage)
+17,2,19-10-2025,06:40 PM IST,07:20 PM IST,Propex FC (Galacticos),Kanhaiya's Physio FC (Beast)
+17,3,19-10-2025,07:20 PM IST,08:00 PM IST,Sarthak Singapore FC (Silverbacks),BKFC
+17,4,19-10-2025,08:00 PM IST,08:40 PM IST,Sapphire Seven,Cell Kraft FC (Riza)
+17,5,19-10-2025,08:40 PM IST,09:20 PM IST,Reckon FC (FUTURE),H&H Boyz
+17,6,19-10-2025,09:20 PM IST,10:00 PM IST,Sarco FC (LUFC),Bon Bon FC (Supa)
+18,1,26-10-2025,06:00 PM IST,06:40 PM IST,Propex FC (Galacticos),Cell Kraft FC (Riza)
+18,2,26-10-2025,06:40 PM IST,07:20 PM IST,Sapphire Seven,BKFC
+18,3,26-10-2025,07:20 PM IST,08:00 PM IST,Procure FC (Carnage),H&H Boyz
+18,4,26-10-2025,08:00 PM IST,08:40 PM IST,Ektarfa FC (TeamSkeet),Kanhaiya's Physio FC (Beast)
+18,5,26-10-2025,08:40 PM IST,09:20 PM IST,Reckon FC (FUTURE),Bon Bon FC (Supa)
+18,6,26-10-2025,09:20 PM IST,10:00 PM IST,Sarco FC (LUFC),Sarthak Singapore FC (Silverbacks)
+19,1,02-11-2025,06:00 PM IST,06:40 PM IST,Ektarfa FC (TeamSkeet),H&H Boyz
+19,2,02-11-2025,06:40 PM IST,07:20 PM IST,Reckon FC (FUTURE),Sarthak Singapore FC (Silverbacks)
+19,3,02-11-2025,07:20 PM IST,08:00 PM IST,Kanhaiya's Physio FC (Beast),Cell Kraft FC (Riza)
+19,4,02-11-2025,08:00 PM IST,08:40 PM IST,Propex FC (Galacticos),BKFC
+19,5,02-11-2025,08:40 PM IST,09:20 PM IST,Procure FC (Carnage),Bon Bon FC (Supa)
+19,6,02-11-2025,09:20 PM IST,10:00 PM IST,Sapphire Seven,Sarco FC (LUFC)
+20,1,09-11-2025,06:00 PM IST,06:40 PM IST,H&H Boyz,Bon Bon FC (Supa)
+20,2,09-11-2025,06:40 PM IST,07:20 PM IST,Reckon FC (FUTURE),Sapphire Seven
+20,3,09-11-2025,07:20 PM IST,08:00 PM IST,Procure FC (Carnage),Sarthak Singapore FC (Silverbacks)
+20,4,09-11-2025,08:00 PM IST,08:40 PM IST,Ektarfa FC (TeamSkeet),Cell Kraft FC (Riza)
+20,5,09-11-2025,08:40 PM IST,09:20 PM IST,Propex FC (Galacticos),Sarco FC (LUFC)
+20,6,09-11-2025,09:20 PM IST,10:00 PM IST,Kanhaiya's Physio FC (Beast),BKFC
+21,1,16-11-2025,06:00 PM IST,06:40 PM IST,Ektarfa FC (TeamSkeet),Bon Bon FC (Supa)
+21,2,16-11-2025,06:40 PM IST,07:20 PM IST,Cell Kraft FC (Riza),BKFC
+21,3,16-11-2025,07:20 PM IST,08:00 PM IST,Propex FC (Galacticos),Reckon FC (FUTURE)
+21,4,16-11-2025,08:00 PM IST,08:40 PM IST,Procure FC (Carnage),Sapphire Seven
+21,5,16-11-2025,08:40 PM IST,09:20 PM IST,H&H Boyz,Sarthak Singapore FC (Silverbacks)
+21,6,16-11-2025,09:20 PM IST,10:00 PM IST,Kanhaiya's Physio FC (Beast),Sarco FC (LUFC)
+22,1,23-11-2025,06:00 PM IST,06:40 PM IST,H&H Boyz,Sapphire Seven
+22,2,23-11-2025,06:40 PM IST,07:20 PM IST,Bon Bon FC (Supa),Sarthak Singapore FC (Silverbacks)
+22,3,23-11-2025,07:20 PM IST,08:00 PM IST,Cell Kraft FC (Riza),Sarco FC (LUFC)
+22,4,23-11-2025,08:00 PM IST,08:40 PM IST,Kanhaiya's Physio FC (Beast),Reckon FC (FUTURE)
+22,5,23-11-2025,08:40 PM IST,09:20 PM IST,Procure FC (Carnage),Propex FC (Galacticos)
+22,6,23-11-2025,09:20 PM IST,10:00 PM IST,Ektarfa FC (TeamSkeet),BKFC
