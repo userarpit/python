@@ -1,7 +1,13 @@
+import sys
+print("Python executable:", sys.executable)
+print("Python version:", sys.version)
+
 from sklearn.linear_model import LinearRegression
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy import stats
+
+
 
 x_actual = np.array([150, 155, 160, 157, 162, 164, 168, 170, 140, 145, 175, 178, 180])
 x = x_actual.reshape((-1, 1))
