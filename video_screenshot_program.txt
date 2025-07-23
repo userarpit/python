@@ -1,0 +1,47 @@
+import cv2
+import os
+import requests
+
+# === CONFIGURATION ===
+video_url = 'https://example.com/video.mp4'  # 🔁 Replace with your actual video URL
+video_filename = 'downloaded_video.mp4'
+screenshot_dir = 'screenshots'
+screenshot_filename = 'screenshot_15_sec.jpg'
+
+# === STEP 1: DOWNLOAD VIDEO ===
+print("Downloading video...")
+response = requests.get(video_url, stream=True)
+if response.status_code == 200:
+    with open(video_filename, 'wb') as f:
+        for chunk in response.iter_content(chunk_size=1024*1024):
+            if chunk:
+                f.write(chunk)
+    print("Download completed.")
+else:
+    print("Failed to download video. Check the URL.")
+    exit()
+
+# === STEP 2: CREATE DIRECTORY FOR SCREENSHOTS ===
+os.makedirs(screenshot_dir, exist_ok=True)
+
+# === STEP 3: OPEN VIDEO AND SEEK TO 15 SECONDS ===
+cap = cv2.VideoCapture(video_filename)
+if not cap.isOpened():
+    print("Error: Cannot open video file.")
+    exit()
+
+fps = cap.get(cv2.CAP_PROP_FPS)
+target_frame = int(fps * 15)
+cap.set(cv2.CAP_PROP_POS_FRAMES, target_frame)
+
+# === STEP 4: CAPTURE AND SAVE SCREENSHOT ===
+ret, frame = cap.read()
+if ret:
+    screenshot_path = os.path.join(screenshot_dir, screenshot_filename)
+    cv2.imwrite(screenshot_path, frame)
+    print(f"Screenshot saved to: {screenshot_path}")
+else:
+    print("Error: Could not read frame at 15 seconds.")
+
+cap.release()
+cv2.destroyAllWindows()
